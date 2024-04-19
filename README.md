@@ -1,0 +1,1 @@
+Langchain, Streamlit, Ollama2
